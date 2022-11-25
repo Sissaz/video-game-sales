@@ -19,7 +19,7 @@ The Dataset for this analysis can be found in [Kaggle](https://www.kaggle.com/da
 - Blending Datasets for the Map Region Sales Chart.
 
 ## 🌈 | Visualization
-- [Interactive Dashboard in Tableau](https://public.tableau.com/app/profile/sicilia.giacomazza/viz/VideoGameSales_16693463154290/VideoGameSales1)
+- [Interactive Dashboard in Tableau](https://public.tableau.com/views/VideoGameSales_16693463154290/VideoGameSales?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 <div align="center">
 <a href="https://github.com/Sissaz" > <img width="100%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1045549762847461436/Screenshot_3.png" /></a>
 </div>
